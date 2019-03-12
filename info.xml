@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <extension key="com.ginkgostreet.relatedmembershiptokens" type="module">
   <file>relatedmembershiptokens</file>
-  <name>FIXME</name>
-  <description>FIXME</description>
+  <name>Related Membership Email Tokens</name>
+  <description>Email tokens which traverse to the Primary membership holder and return information about that membership, including the name, address, and phone of the contact who holds the primary membership.</description>
   <license>AGPL-3.0</license>
   <maintainer>
-    <author>David Reedy Jr</author>
-    <email>davidrjr.konadave@gmail.com</email>
+    <author>Ginkgo Street Labs</author>
+    <email>info@ginkgostreet.com</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">http://FIXME</url>
-    <url desc="Documentation">http://FIXME</url>
-    <url desc="Support">http://FIXME</url>
+    <url desc="Main Extension Page">https://github.com/ginkgostreet/com.ginkgostreet.relatedmembershiptokens/</url>
+    <url desc="Documentation">https://github.com/ginkgostreet/com.ginkgostreet.relatedmembershiptokens/blob/master/README/</url>
+    <url desc="Support">https://github.com/ginkgostreet/com.ginkgostreet.relatedmembershiptokens/issues</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
   <releaseDate>2019-03-07</releaseDate>
